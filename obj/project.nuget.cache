@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "dzYVZMXQN/c=",
+  "success": true,
+  "projectFilePath": "/Users/oykunurakyuz/StreamingAPI/StreamingAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/oykunurakyuz/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/10.0.9/microsoft.aspnetcore.authentication.jwtbearer.10.0.9.nupkg.sha512",
+    "/Users/oykunurakyuz/.nuget/packages/microsoft.extensions.apidescription.server/10.0.0/microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "/Users/oykunurakyuz/.nuget/packages/microsoft.identitymodel.abstractions/8.0.1/microsoft.identitymodel.abstractions.8.0.1.nupkg.sha512",
+    "/Users/oykunurakyuz/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.0.1/microsoft.identitymodel.jsonwebtokens.8.0.1.nupkg.sha512",
+    "/Users/oykunurakyuz/.nuget/packages/microsoft.identitymodel.logging/8.0.1/microsoft.identitymodel.logging.8.0.1.nupkg.sha512",
+    "/Users/oykunurakyuz/.nuget/packages/microsoft.identitymodel.protocols/8.0.1/microsoft.identitymodel.protocols.8.0.1.nupkg.sha512",
+    "/Users/oykunurakyuz/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/8.0.1/microsoft.identitymodel.protocols.openidconnect.8.0.1.nupkg.sha512",
+    "/Users/oykunurakyuz/.nuget/packages/microsoft.identitymodel.tokens/8.0.1/microsoft.identitymodel.tokens.8.0.1.nupkg.sha512",
+    "/Users/oykunurakyuz/.nuget/packages/microsoft.openapi/2.4.1/microsoft.openapi.2.4.1.nupkg.sha512",
+    "/Users/oykunurakyuz/.nuget/packages/swashbuckle.aspnetcore/10.2.0/swashbuckle.aspnetcore.10.2.0.nupkg.sha512",
+    "/Users/oykunurakyuz/.nuget/packages/swashbuckle.aspnetcore.swagger/10.2.0/swashbuckle.aspnetcore.swagger.10.2.0.nupkg.sha512",
+    "/Users/oykunurakyuz/.nuget/packages/swashbuckle.aspnetcore.swaggergen/10.2.0/swashbuckle.aspnetcore.swaggergen.10.2.0.nupkg.sha512",
+    "/Users/oykunurakyuz/.nuget/packages/swashbuckle.aspnetcore.swaggerui/10.2.0/swashbuckle.aspnetcore.swaggerui.10.2.0.nupkg.sha512",
+    "/Users/oykunurakyuz/.nuget/packages/system.identitymodel.tokens.jwt/8.0.1/system.identitymodel.tokens.jwt.8.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "'Microsoft.OpenApi' 2.4.1 paketinde önem derecesi yüksek olan bilinen bir https://github.com/advisories/GHSA-v5pm-xwqc-g5wc güvenlik açığı var",
+      "projectPath": "/Users/oykunurakyuz/StreamingAPI/StreamingAPI.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/oykunurakyuz/StreamingAPI/StreamingAPI.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
