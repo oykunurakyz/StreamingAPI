@@ -42,3 +42,4 @@
 /Users/oykunurakyuz/StreamingAPI/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /Users/oykunurakyuz/StreamingAPI/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
 /Users/oykunurakyuz/StreamingAPI/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/oykunurakyuz/StreamingAPI/obj/Debug/net10.0/StreamingAPI.sourcelink.json

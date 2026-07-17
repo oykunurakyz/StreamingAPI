@@ -11,7 +11,7 @@ namespace StreamingAPI.Controllers
 {
     [ApiController]
     [Route("api/auth")]
-    public class AuthController : ControllerBase
+    public class AuthController : ControllerBase // <-- Burayı ekledik
     {
         private readonly IConfiguration _config;
 
